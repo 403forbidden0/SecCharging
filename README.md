@@ -1,2 +1,2 @@
 # SecCharging
-An application to defense EM-Surfing side-channel attack
+An application to defend against EM-Surfing side-channel attack
