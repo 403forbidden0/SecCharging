@@ -8,3 +8,5 @@ Keystroke and App:<br>
 SecCharging keeps on monitoring if a tapping happens. If the user taps the touchscreen, SecCharging would randomly generate n processes to change the load deliberately.<br>
 Speech:<br> 
 Playing the voice will trigger SecCharging to generate random processes continuously until the user stops playing, greatly disrupting the voltage dynamics caused by the voice playing.
+
+Dropzone access for this app should be allowed.
